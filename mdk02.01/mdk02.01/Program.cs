@@ -10,7 +10,7 @@ namespace mdk02._01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World and Artem!");
+            Console.WriteLine("Салам алейкум");
         }
     }
 }
